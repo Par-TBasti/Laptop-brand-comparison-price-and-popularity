@@ -1,0 +1,6 @@
+COPY acer TO 'D:\DigiKala\csv files\acer.csv' WITH(FORMAT CSV, HEADER)
+COPY apple TO 'D:\DigiKala\csv files\apple.csv' WITH(FORMAT CSV, HEADER)
+COPY asus TO 'D:\DigiKala\csv files\asus.csv' WITH(FORMAT CSV, HEADER)
+COPY hp TO 'D:\DigiKala\csv files\hp.csv' WITH(FORMAT CSV, HEADER)
+COPY lenovo TO 'D:\DigiKala\csv files\lenovo.csv' WITH(FORMAT CSV, HEADER)
+COPY msi TO 'D:\DigiKala\csv files\msi.csv' WITH(FORMAT CSV, HEADER)
